@@ -37,3 +37,6 @@ Citation
 When using these files, cite the accompanying manuscript, this dataset
 using its repository DOI, and the relevant original data sources:
 Goulet et al. (2014), Chapman and Guo (2021), and Thompson et al. (2023).
+Chapman, M. C., & Guo, Z. (2021).  A response spectral ratio model to account for amplification and attenuation effects in the Atlantic and Gulf Coastal Plain. Bulletin of the Seismological Society of America, 111(4), 1849-1867.
+Goulet, C. A., Cramer, C. H., Darragh, R. B., Silva, W. J., Hashash, Y. M. A., Harmon, J., Stewart, J. P., Wooddell, K. E., and Youngs, R. R. (2014).  PEER NGA-East Database.  PEER Rep. /201417, Berkeley, CA: Pacific Earthquake Engineering Research Center.
+Thompson, E. M., Boyd, O. S., Churchwell, D., & Moschetti, M. P. (2023).  Central and Eastern US earthquake ground motion database: 2010 to 2020. Center for Engineering Strong Motion Data (CESMD). DOI, 10, P9HX7MYG.
